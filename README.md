@@ -8,26 +8,26 @@ Athens Greece or other location in Greece.
 https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw 
 * the following algorithms and models were applied:
 
-*  a. VANDER knowledge based unsupervised model
+###  VANDER knowledge based unsupervised model
 
-b. TFIDF (term frequency, inverse document frequency) vectorization to 
+###  TFIDF (term frequency, inverse document frequency) vectorization to 
 
-reviews dataset and the following ML algorithms to the vectorized dataset:
+### reviews dataset and the following ML algorithms to the vectorized dataset:
 
-i. LogisticRegression
+#### i. LogisticRegression
 
-ii. KNeighborsClassifier
+#### ii. KNeighborsClassifier
 
-iii. RandomForestClassifier
+#### iii. RandomForestClassifier
 
-iv. GaussianNB
+#### iv. GaussianNB
 
-v. SVC
+#### v. SVC
 
-vi. Long Short-Term Memory (LSTM) – Keras Implementation
+#### vi. Long Short-Term Memory (LSTM) – Keras Implementation
 
-vii. AutoSklearnClassifier(from autosklearn.classification import AutoSklearnClassifier)
+#### vii. AutoSklearnClassifier(from autosklearn.classification import AutoSklearnClassifier)
 
-viii. Xgboost
+#### viii. Xgboost
 
-ix.  Bidirectional Encoder Representations from Transformer BERT.
+#### ix.  Bidirectional Encoder Representations from Transformer BERT.
