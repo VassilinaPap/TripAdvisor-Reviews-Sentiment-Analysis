@@ -1,7 +1,7 @@
 # TripAdvisor-Reviews
 
 In this project 
-a) data was collected from Tripadvisor site (https://www.tripadvisor.com.gr/) for hotels in 
+ *data was collected from Tripadvisor site (https://www.tripadvisor.com.gr/) for hotels in 
 Athens Greece or other location in Greece.
 b) tripadvisor reviews for restaurants was downloaded from the following site
 https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw 
