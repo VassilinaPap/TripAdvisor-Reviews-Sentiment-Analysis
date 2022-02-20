@@ -7,8 +7,7 @@ In this project:
 ## the following algorithms and models were applied:
 
 ###  VANDER knowledge based unsupervised model
-###  TFIDF (term frequency, inverse document frequency) vectorization to 
-### reviews dataset and the following ML algorithms to the vectorized dataset:
+###  TFIDF (term frequency, inverse document frequency) vectorization to reviews dataset and the following ML algorithms to the vectorized dataset:
 #### i. LogisticRegression
 #### ii. KNeighborsClassifier
 #### iii. RandomForestClassifier
