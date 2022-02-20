@@ -8,7 +8,7 @@ Athens Greece or other location in Greece.
 https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw 
 * the following algorithms and models were applied:
 
-a. VANDER knowledge based unsupervised model
+*  a. VANDER knowledge based unsupervised model
 
 b. TFIDF (term frequency, inverse document frequency) vectorization to 
 
