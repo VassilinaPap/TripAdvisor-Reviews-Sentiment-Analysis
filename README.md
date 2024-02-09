@@ -2,8 +2,8 @@
 
 In this project:
 
-## data was collected from Tripadvisor site (https://www.tripadvisor.com.gr/) for hotels in Athens Greece or other location in Greece.
-##  tripadvisor reviews for restaurants was downloaded from the following site https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw 
+### data was collected from Tripadvisor site (https://www.tripadvisor.com.gr/) for hotels in Athens Greece or other location in Greece.
+###  tripadvisor reviews for restaurants was downloaded from the following site https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw 
 ## the following algorithms and models were applied:
 
 ###  VANDER knowledge based unsupervised model
