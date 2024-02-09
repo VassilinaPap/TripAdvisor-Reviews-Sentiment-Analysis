@@ -6,16 +6,16 @@ In the jupyter notebook we implement a complete sentiment analysis on greek_hote
 
 ## For this NLP task we perform several algorithms. These algorithms are presented below:
 
-####  VANDER knowledge based unsupervised model
-####  LogisticRegression
-####  KNeighborsClassifier
-####  RandomForestClassifier
-####  GaussianNB
-####  SVC
-####  Long Short-Term Memory (LSTM) – Keras Implementation
-####  AutoSklearnClassifier(from autosklearn.classification import AutoSklearnClassifier)
-####  Xgboost
-####  Bidirectional Encoder Representations from Transformer BERT.
+* ####  VANDER knowledge based unsupervised model
+* ####  LogisticRegression
+* ####  KNeighborsClassifier
+* ####  RandomForestClassifier
+* ####  GaussianNB
+* ####  SVC
+* ####  Long Short-Term Memory (LSTM) – Keras Implementation
+* ####  AutoSklearnClassifier(from autosklearn.classification import AutoSklearnClassifier)
+* ####  Xgboost
+* ####  Bidirectional Encoder Representations from Transformer BERT.
 
 To perform the above algorithms, the data had previously been vectorized by TFIDF (term frequency, inverse document frequency) vectorizer.
 
