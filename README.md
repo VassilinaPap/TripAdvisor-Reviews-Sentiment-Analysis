@@ -17,6 +17,8 @@ In the jupyter notebook we implement a complete sentiment analysis on greek_hote
 * ####  Xgboost
 * ####  Bidirectional Encoder Representations from Transformer BERT.
 
+  
+
 To perform the above algorithms, the data had previously been vectorized by TFIDF (term frequency, inverse document frequency) vectorizer.
 
 This repo contains the correspondings jupyter notebooks along with the final report.
