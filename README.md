@@ -15,7 +15,7 @@ In the jupyter notebook we implement a complete sentiment analysis on greek_hote
 * ####  Long Short-Term Memory (LSTM) – Keras Implementation
 * ####  AutoSklearnClassifier(from autosklearn.classification import AutoSklearnClassifier)
 * ####  Xgboost
-* ####  Bidirectional Encoder Representations from Transformer BERT.
+* ####  LSTM with Bidirectional Encoder Representations from Transformer BERT.
 
   
 
